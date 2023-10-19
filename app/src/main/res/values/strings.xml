@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Parte Diario</string>
+    <string-array name="razones_array">
+        <item>Razón 1</item>
+        <item>Razón 2</item>
+        <item>Razón 3</item>
+    </string-array>
 </resources>
